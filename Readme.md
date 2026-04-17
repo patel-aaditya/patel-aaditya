@@ -85,5 +85,5 @@ always grinding
 </p>
 
 <p align="center">
-  <img alt="Animated wave footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0d1117&height=120&section=footer&animation=fadeIn" />
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0d1117&height=120&section=footer&animation=fadeIn" />
 </p>
