@@ -17,10 +17,9 @@
 ## ⚡ ABOUT ME
 
 ```bash
-> age: 17
+> age: 19
 > location: Pune, India
-> focus: Game Dev + Systems
-> current: building projects that actually ship
+> focus: Game Dev + AIML
 ```
 
 ---
